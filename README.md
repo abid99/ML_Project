@@ -1,4 +1,5 @@
 # ML_Project
+This is Python Machine Learning project focuses on developing and deploying machine learning models on the cloud platform Heroku, utilizing Docker containers and implementing Continuous Integration and Continuous Deployment (CI/CD) practices.
 # BostonHousePricing
 ### Software and Tool for development requirements
 
